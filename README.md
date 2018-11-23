@@ -40,4 +40,4 @@
 
 ## LOVE 2D 
 
-O love utilizado foi a versão 1.1.0 64 bits.
+A versão do love2d utilizado foi a versão 1.1.0 64 bits.
