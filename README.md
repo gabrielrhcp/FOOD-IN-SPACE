@@ -37,3 +37,7 @@
 - Speed Bust
 
 <p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/thunder.png"/></p>
+
+## LOVE 2D 
+
+O love utilizado foi a versão 1.1.0 64 bits.
