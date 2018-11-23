@@ -9,8 +9,9 @@ Consiste em dois jogadores competindo entre si, para ver quem consegui pegar tri
 ## JOGADORES 
 
 - SUSHI
-<p><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/sushi.png"/></p>     
-<p><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/donut.png"/>  DONUT</p>
+<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/sushi.png"/></p> 
+- DONUT
+<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/donut.png"/></p>
 
 ## MAPAS
 
