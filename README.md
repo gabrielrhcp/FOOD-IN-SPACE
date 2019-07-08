@@ -16,15 +16,15 @@
 
 ## MAPAS
 
-- Mapa 1: Espaço
+- #Espaço
 
 <p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/space.png"/></p>
 
-- Mapa 2: Planetas
+- #Planetas
 
 <p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/planets.png"/></p>
 
-- Mapa 3: Portais
+- #Portais
 
 <p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/galaxy.png"/></p>
 
