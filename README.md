@@ -1,6 +1,6 @@
 # FOOD IN SPACE
 
-  Trabalho feito para a terceira nota da disciplina de Algoritmo I do curso de Ciência da Computação da Universidade Federal do Maranhão (UFMA).
+  Trabalho feito para a terceira nota da disciplina de Algoritmo I do curso de Ciência da Computação da Universidade Federal do Maranhão (UFMA) - 2018.1
 
 ## CONCEITO
 
