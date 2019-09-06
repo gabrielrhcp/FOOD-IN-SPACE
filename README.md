@@ -4,7 +4,7 @@
 
 ## CONCEITO
 
-  Consiste em dois jogadores competindo entre si, para ver quem consegui pegar trinta moedas mais rápido. Eles podem competir em três mapas diferentes, cada um com sua própria mecânica e todos eles tem um coletável que aumenta a velocidade de quem pegou.
+  Consiste em dois jogadores competindo entre si, para ver quem consegui pegar trinta moedas primeiro. Eles podem competir em três mapas diferentes, cada um com sua própria mecânica e todos eles tem um coletável que aumenta a velocidade de quem pegou.
 
 ## JOGADORES 
 
