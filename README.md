@@ -2,7 +2,7 @@
 
   Trabalho feito para a terceira nota da disciplina de Algoritmo I do curso de Ciência da Computação da Universidade Federal do Maranhão (UFMA) - 2018.1
   
-  <a href="https://drive.google.com/open?id=1CaUAl7UbChqcifhqSpgS8QMV4Di6KFbW">Download do jogo.</a>.
+  <a href="https://drive.google.com/open?id=1CaUAl7UbChqcifhqSpgS8QMV4Di6KFbW">Download do jogo</a>.
 
 ## CONCEITO
 
