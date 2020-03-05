@@ -9,7 +9,7 @@
 ## PERSONAGENS
 
 - SUSHI
-<p align="center"><img src="https://imgur.com/X2VvVZL"/>
+<p align="center"><a href="https://imgur.com/X2VvVZL"><img src="https://i.imgur.com/X2VvVZL.png" title="source: imgur.com" /></a>
 
 - DONUT
 <p align="center"><img src="https://imgur.com/bBR17KU"/>
