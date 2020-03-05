@@ -12,31 +12,31 @@
 <p align="center"><a href="https://imgur.com/X2VvVZL"><img src="https://i.imgur.com/X2VvVZL.png" title="source: imgur.com" /></a>
 
 - DONUT
-<p align="center"><img src="https://imgur.com/bBR17KU"/>
+<p align="center"><a href="https://imgur.com/bBR17KU"><img src="https://i.imgur.com/bBR17KU.png" title="source: imgur.com" /></a>
 
 ## MAPAS
 
 - Espaço
 
-<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/space.png"/></p>
+<p align="center"><a href="https://imgur.com/gFRQEbH"><img src="https://i.imgur.com/gFRQEbH.png" title="source: imgur.com" /></a></p>
 
 - Planetas
 
-<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/planets.png"/></p>
+<p align="center"><a href="https://imgur.com/JyoABXD"><img src="https://i.imgur.com/JyoABXD.png" title="source: imgur.com" /></a></p>
 
 - Portais
 
-<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/galaxy.png"/></p>
+<p align="center"><a href="https://imgur.com/o8AW5nh"><img src="https://i.imgur.com/o8AW5nh.png" title="source: imgur.com" /></a></p>
 
 ## COLETÁVEIS
 
 - Moeda
 
-<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/point.png"/></p>
+<p align="center"><a href="https://imgur.com/7uJ6t6L"><img src="https://i.imgur.com/7uJ6t6L.png" title="source: imgur.com" /></a></p>
 
 - Speed Boost
 
-<p align="center"><img src="https://github.com/gabrielrhcp/Food-In-Space-LOVE2D/blob/master/19-%20FOOD_IN_SPACE_1.5/image/thunder.png"/></p>
+<p align="center"><a href="https://imgur.com/YoAKcT3"><img src="https://i.imgur.com/YoAKcT3.png" title="source: imgur.com" /></a></p>
 
 ## LOVE 2D 
 
