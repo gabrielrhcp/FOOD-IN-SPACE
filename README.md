@@ -22,7 +22,7 @@
 
 - Planetas
 
-<p align="center"><a href="https://imgur.com/JyoABXD"><img src="https://i.imgur.com/JyoABXD.png" title="source: imgur.com" /></a></p>
+<p align="center"><a href="https://imgur.com/d7V0Iy4"><img src="https://i.imgur.com/d7V0Iy4.png" title="source: imgur.com" /></a></p>
 
 - Portais
 
