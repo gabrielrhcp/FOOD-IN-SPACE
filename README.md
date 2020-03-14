@@ -4,17 +4,8 @@
   
   <a href="https://drive.google.com/open?id=1CaUAl7UbChqcifhqSpgS8QMV4Di6KFbW">Download do jogo</a>.
   
-  <html>
-<head>
-<title>Inserindo vídeos do YouTube em uma página HTML</title
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
-<body>
-<iframe width="853" height="480" src="https://youtube.com/embed/u548qyxRTBU"  allowfullscreen></iframe>
-</body>
-</html>
-  
-
+  <a href="https://www.youtube.com/watch?v=6J1du7rgtxU&t=">Download do jogo</a>.
+ 
 ## CONCEITO
 
   Consiste em dois jogadores competindo entre si, para ver quem consegui pegar trinta moedas primeiro. Eles podem competir em três mapas diferentes, cada um com sua própria mecânica e todos eles tem um coletável que aumenta a velocidade de quem pegou.
