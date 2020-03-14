@@ -4,7 +4,7 @@
   
   <a href="https://drive.google.com/open?id=1CaUAl7UbChqcifhqSpgS8QMV4Di6KFbW">Download do jogo</a>.
   
-  <a href="https://www.youtube.com/watch?v=6J1du7rgtxU&t=">Download do jogo</a>.
+  <a href="https://www.youtube.com/watch?v=6J1du7rgtxU&t=">Trailer do jogo</a>.
  
 ## CONCEITO
 
